@@ -1,0 +1,21 @@
+h1{
+    color: white;
+}
+
+
+.page{
+    display: flex;
+    justify-content: center;
+    align-items
+
+    width: 1920px; height: 1080px;
+
+
+}
+
+.fill {
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+    max-height: 100%;
+}
