@@ -8,9 +8,8 @@ h1{
     justify-content: center;
     align-items
 
-    width: 1920px; height: 1080px;
-
-
+    width: 1920px; 
+    height: 1080px;
 }
 
 .fill {
@@ -18,4 +17,31 @@ h1{
     background-position: center;
     max-width: 100%;
     max-height: 100%;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image: linear-gradient(to right, #0F2D4B, #097596 );
+    height: 118px;
+    padding: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.box-highlight{
+    border: solid white 2px;
+    height: 97.6px; width: 482.4px ;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    
+    display: flex;
+    justify-content: right;
+    align-items:center;
+    
+
+
 }
